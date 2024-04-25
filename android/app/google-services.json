@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904287153139",
+    "project_id": "hospitalfirebase-dbc39",
+    "storage_bucket": "hospitalfirebase-dbc39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904287153139:android:bca015cdde73977badc086",
+        "android_client_info": {
+          "package_name": "com.example.hospital_firebase.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh22oE6jx3HAL0hc6tT9zczXpNkfXFeKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
